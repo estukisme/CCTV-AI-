@@ -1,0 +1,16 @@
+dataset/
+dataset_split/
+venv/
+yolo/
+
+snapshot/
+snapshot_alarm/
+snapshot_bongkahan/
+snapshot_log/
+snapshot_monitoring/
+
+*.pt
+*.weights
+*.engine
+
+__pycache__/
